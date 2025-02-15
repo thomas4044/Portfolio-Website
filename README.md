@@ -5,7 +5,7 @@ This website contains a home page, an about me page with details of my job and i
 
 The folder structure should be as follows: 
 
-├── index.html
+`├── index.html
 
 ├── about.html
 
@@ -21,6 +21,6 @@ The folder structure should be as follows:
 
   ├── img.jpg
   
-  └── video.mp4
+  └── video.mp4`
 
 The website can be viewed locally by downloading the source folder and opening a html file with a browser. This is the easiest way to view and use the website locally. 
