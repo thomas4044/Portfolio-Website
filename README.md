@@ -24,3 +24,5 @@ The folder structure should be as follows:
   └── video.mp4
 </pre>
 The website can be viewed locally by downloading the source folder and opening a html file with a browser. This is the easiest way to view and use the website locally. 
+
+The website is also hosted _via_ git-pages and can be viewed at https://thomas4044.github.io/Portfolio-Website/
