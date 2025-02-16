@@ -32,6 +32,9 @@
     &quot;accountId&quot;: &quot;8e654737-62fc-43fd-9c41-d40021a2365c&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -73,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739632195888</updated>
-      <workItem from="1739632196956" duration="15725000" />
+      <workItem from="1739632196956" duration="19085000" />
     </task>
     <task id="LOCAL-00001" summary="Initial upload">
       <option name="closed" value="true" />
