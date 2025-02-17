@@ -55,7 +55,7 @@ h2, h3 {
 /* Profile Summary (Home & Portfolio) */
 .profile-container, .home-container {
   display: flex;
-  align-items: left;
+  align-items: center;
   justify-content: space-between;
   gap: 20px;
 }
@@ -147,11 +147,12 @@ footer {
 @media (max-width: 768px) {
   .home-container, .profile-container {
     flex-direction: column;
-    text-align: center;
+    text-align: left;
   }
 
   .home-photo, .profile-photo {
     margin-top: 10px;
+    align: center;
   }
 
   .project-grid {
