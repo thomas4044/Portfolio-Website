@@ -55,7 +55,7 @@ h2, h3 {
 /* Profile Summary (Home & Portfolio) */
 .profile-container, .home-container {
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: space-between;
   gap: 20px;
 }
